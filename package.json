@@ -2,7 +2,7 @@
   "name": "node-crash-course",
   "version": "1.0.0",
   "description": "First steps discovering Node JS with TypeScript",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "build": "shx rm -rf ./build && tsc",
     "start:dev": "npx nodemon",
